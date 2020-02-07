@@ -1,0 +1,8 @@
+帮我	bang_1 wo_3
+请帮我	qing_3 bang_1 wo_3
+副驾	fu_4 jia_4
+主驾	zhu_3 jia_4
+调高	tiao_2 gao_1
+调小	tiao_2 xiao_3
+上一页	shang_4 yi_1 ye_4
+下一页	xia_4 yi_1 ye_4

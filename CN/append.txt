@@ -6,3 +6,15 @@
 调小	tiao_2 xiao_3
 上一页	shang_4 yi_1 ye_4
 下一页	xia_4 yi_1 ye_4
+话剧	hua_4 ju_4
+吴浩	wu_2 hao_4
+下周二	xia_4 zhou_1 er_4
+下周三	xia_4 zhou_1 san_1
+下周四	xia_4 zhou_1 si_4
+下周五	xia_4 zhou_1 wu_3
+下周六	xia_4 zhou_1 liu_4
+下周日	xia_4 zhou_1 ri_4
+我要去	wo_3 yao_4 qu_4
+由早到晚	you_2 zao_3 dao_4 wan_3
+有晚到早	you_2 wan_3 dao_4 zao_3
+查一下	cha_2 yi_1 xia_4

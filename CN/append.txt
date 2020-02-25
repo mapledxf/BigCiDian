@@ -1,25 +1,15 @@
-帮我	bang_1 wo_3
-请帮我	qing_3 bang_1 wo_3
-副驾	fu_4 jia_4
-主驾	zhu_3 jia_4
-调高	tiao_2 gao_1
-调小	tiao_2 xiao_3
-上一页	shang_4 yi_1 ye_4
-下一页	xia_4 yi_1 ye_4
-话剧	hua_4 ju_4
-吴浩	wu_2 hao_4
-下周二	xia_4 zhou_1 er_4
-下周三	xia_4 zhou_1 san_1
-下周四	xia_4 zhou_1 si_4
-下周五	xia_4 zhou_1 wu_3
-下周六	xia_4 zhou_1 liu_4
-下周日	xia_4 zhou_1 ri_4
-我要去	wo_3 yao_4 qu_4
-由早到晚	you_2 zao_3 dao_4 wan_3
-有晚到早	you_2 wan_3 dao_4 zao_3
-查一下	cha_2 yi_1 xia_4
-第二个	di_4 er_4 ge_4
-第三个	di_4 san_1 ge_4
-关注航班	guan_1 zhu_4 hang_2 ban_1
-上一首	shang_4 yi_1 shou_3
-下一首	xia_4 yi_1 shou_3
+千克    qian_1 ke_4
+到      dao_4
+到店    dao_4 dian_4
+厚衣服  hou_4 yi_1 fu_0
+双子杀手        shuang_2 zi_3 sha_2 shou_3
+总共    zong_3 gong_4
+悬疑    xuan_2 yi_2
+我和我的祖国    wo_3 he_2 wo_3 de_0 zu_3 guo_2
+接机    jie_1 ji_2
+斤      jin_1
+犯罪现场        fan_4 zui_4 xian_4 chang_3
+白鹿原  bai_2 lu_4 yuan_2
+美元    mei_3 yuan_2
+美嘉国际影城    mei_3 jia_2 guo_2 ji_2 ying_3 cheng_2
+薄衣服  bao_2 yi_1 fu_0

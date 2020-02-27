@@ -40,7 +40,9 @@ if words_to_remove:
 
 for l in words: # "15	YI_1 WU_3;YAO_1 WU_3"
     cols = l.strip().split('\t')
-    assert(len(cols) == 2)
+    if len(cols) != 2:
+        print(l)
+        sys.exit(-1)
     word  = cols[0]
     if word in remove_words:
         continue
